@@ -1,0 +1,15 @@
+/* .parent :last-child {
+   font-weight: bold;
+}
+.type:last-of-type {
+    color: red; */
+
+/* div:not(#colorblue) {
+    color: blue; */
+/* } */
+/* .odd :nth-child(2n+1){
+    background: grey;
+} */
+a[href$=".com/"]:active {
+        text-decoration: none;
+}
